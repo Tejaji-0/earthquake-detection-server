@@ -1,0 +1,92 @@
+{
+  "analysis_date": "2025-07-23T21:01:52.822727",
+  "total_events": 464,
+  "events_with_foreshocks": 76,
+  "events_with_aftershocks": 116,
+  "events_with_both": 38,
+  "top_foreshock_events": [
+    {
+      "event": "M 7.1 - 29 km ESE of Ishinomaki, Japan",
+      "count": 6
+    },
+    {
+      "event": "M 6.7 - 52 km NNW of Tom\u00e9, Chile",
+      "count": 5
+    },
+    {
+      "event": "M 7.1 - 32 km SE of Lata, Solomon Islands",
+      "count": 5
+    },
+    {
+      "event": "M 7.8 - 138 km SSW of Kokopo, Papua New Guinea",
+      "count": 4
+    },
+    {
+      "event": "M 7.0 - 153 km SSW of Padang, Indonesia",
+      "count": 4
+    },
+    {
+      "event": "M 7.0 - 52 km NW of Santa Cruz, Chile",
+      "count": 4
+    },
+    {
+      "event": "M 7.7 - 53 km SW of Iquique, Chile",
+      "count": 4
+    },
+    {
+      "event": "M 6.6 - 22 km WSW of Illapel, Chile",
+      "count": 4
+    },
+    {
+      "event": "M 7.1 - South Sandwich Islands region",
+      "count": 4
+    },
+    {
+      "event": "M 7.2 - 139 km WNW of Panguna, Papua New Guinea",
+      "count": 3
+    }
+  ],
+  "top_aftershock_events": [
+    {
+      "event": "M 7.0 - 191 km ESE of Kokopo, Papua New Guinea",
+      "count": 6
+    },
+    {
+      "event": "M 8.0 - 24 km N of Rabaul, Papua New Guinea",
+      "count": 6
+    },
+    {
+      "event": "M 7.3 - 120 km SE of ?funato, Japan",
+      "count": 6
+    },
+    {
+      "event": "M 8.0 - 75 km W of Lata, Solomon Islands",
+      "count": 6
+    },
+    {
+      "event": "M 7.8 - 135 km SE of Kokopo, Papua New Guinea",
+      "count": 5
+    },
+    {
+      "event": "M 8.4 - 122 km SW of Bengkulu, Indonesia",
+      "count": 5
+    },
+    {
+      "event": "M 8.8 - 36 km WNW of Quirihue, Chile",
+      "count": 5
+    },
+    {
+      "event": "M 9.1 - 2011 Great Tohoku Earthquake, Japan",
+      "count": 5
+    },
+    {
+      "event": "M 7.1 - 112 km WSW of Lata, Solomon Islands",
+      "count": 5
+    },
+    {
+      "event": "M 7.4 - 124 km W of Lebu, Chile",
+      "count": 4
+    }
+  ],
+  "decade_analysis": {}
+}

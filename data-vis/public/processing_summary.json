@@ -1,0 +1,2790 @@
+{
+  "processing_date": "2025-07-23T20:50:54.853830",
+  "total_events_processed": 464,
+  "events": [
+    {
+      "event": "M 7.1 - 14 km NE of Cabatuan, Philippines",
+      "directory": "event_analysis\\event_19950505_0353_M7.1_Cabatuan__Philippines",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.7 - 249 km E of Vao, New Caledonia",
+      "directory": "event_analysis\\event_19950516_2012_M7.7_Vao__New_Caledonia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 85 km S of Tungor, Russia",
+      "directory": "event_analysis\\event_19950527_1303_M7.1_Tungor__Russia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 8.0 - 36 km NNE of Antofagasta, Chile",
+      "directory": "event_analysis\\event_19950730_0511_M8.0_Ant",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.7 - 155 km WNW of Panguna, Papua New Guinea",
+      "directory": "event_analysis\\event_19950816_1027_M7.7_Panguna__Papua_New_Guinea",
+      "before_count": 1,
+      "after_count": 2
+    },
+    {
+      "event": "M 7.2 - 139 km WNW of Panguna, Papua New Guinea",
+      "directory": "event_analysis\\event_19950816_2310_M7.2_Panguna__Papua_New_Guinea",
+      "before_count": 3,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.4 - 5 km N of Azoy\u00fa, Mexico",
+      "directory": "event_analysis\\event_19950914_1404_M7.4_Azoy\u00fa__Mexico",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 45 km SE of Suc\u00faa, Ecuador",
+      "directory": "event_analysis\\event_19951003_0151_M7.0_Suc\u00faa__Ecuador",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 8.0 - 5 km E of El Colomo, Mexico",
+      "directory": "event_analysis\\event_19951009_1535_M8.0_El_Colomo__Mexico",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 83 km SE of Naze, Japan",
+      "directory": "event_analysis\\event_19951018_1037_M7.1_Naze__Japan",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.2 - 13 km NW of Ocozocoautla de Espinosa, Mexico",
+      "directory": "event_analysis\\event_19951021_0238_M7.2_Ocozocoautla_de_Espinosa__Mexico",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 27 km SSE of Nuwaybi\u2018a, Egypt",
+      "directory": "event_analysis\\event_19951122_0415_M7.2_Nuwaybi\u2018a__Egypt",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.9 - 128 km ESE of Kuril\u2019sk, Russia",
+      "directory": "event_analysis\\event_19951203_1801_M7.9_Kuril\u2019sk__Russia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 297 km NE of Lospalos, Timor Leste",
+      "directory": "event_analysis\\event_19951225_0443_M7.1_Lospalos__Timor_Leste",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.9 - 181 km N of Palu, Indonesia",
+      "directory": "event_analysis\\event_19960101_0805_M7.9_Palu__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 158 km E of Kuril\u2019sk, Russia",
+      "directory": "event_analysis\\event_19960207_2136_M7.2_Kuril\u2019sk__Russia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 8.1 - 101 km ENE of Biak, Indonesia",
+      "directory": "event_analysis\\event_19960217_0559_M8.09_Biak__Indonesia",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "event": "M 7.5 - 123 km WSW of Puerto Santa, Peru",
+      "directory": "event_analysis\\event_19960221_1251_M7.5_Puerto_Santa__Peru",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 24 km SSW of Santa Mar\u00eda Chico Ometepec, Mexico",
+      "directory": "event_analysis\\event_19960225_0308_M7.1_Santa_Mar\u00eda_Chico_Ometepec__Mexico",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 58 km WSW of Panguna, Papua New Guinea",
+      "directory": "event_analysis\\event_19960429_1440_M7.2_Panguna__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.9 - 77 km WSW of Adak, Alaska",
+      "directory": "event_analysis\\event_19960610_0403_M7.9_Adak__Alaska",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.3 - 46 km SSW of Adak, Alaska",
+      "directory": "event_analysis\\event_19960610_1524_M7.3_Adak__Alaska",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 8 km NNE of Palapag, Philippines",
+      "directory": "event_analysis\\event_19960611_1822_M7.1_Palapag__Philippines",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.9 - 169 km NNE of Maumere, Indonesia",
+      "directory": "event_analysis\\event_19960617_1122_M7.9_Maumere__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 220 km NNE of Palu, Indonesia",
+      "directory": "event_analysis\\event_19960722_1419_M7.0_Palu__Indonesia",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.7 - 60 km SW of Changuillo, Peru",
+      "directory": "event_analysis\\event_19961112_1659_M7.7_Changuillo__Peru",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 46 km WNW of El Habillal, Mexico",
+      "directory": "event_analysis\\event_19970111_2028_M7.2_El_Habillal__Mexico",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 29 km ESE of Harnai, Pakistan",
+      "directory": "event_analysis\\event_19970227_2108_M7.1_Harnai__Pakistan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.7 - 171 km NNW of Sola, Vanuatu",
+      "directory": "event_analysis\\event_19970421_1202_M7.7_Sola__Vanuatu",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 58 km E of Q?\u2019en, Iran",
+      "directory": "event_analysis\\event_19970510_0757_M7.3_Q\u2019en__Iran",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 26 km WSW of Car\u00fapano, Venezuela",
+      "directory": "event_analysis\\event_19970709_1924_M7.0_Car\u00fapano__Venezuela",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.8 - 192 km WSW of Haveluloto, Tonga",
+      "directory": "event_analysis\\event_19971014_0953_M7.8_Haveluloto__Tonga",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 36 km SW of Monte Patria, Chile",
+      "directory": "event_analysis\\event_19971015_0103_M7.1_Monte_Patria__Chile",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 51 km N of Barranca, Peru",
+      "directory": "event_analysis\\event_19971028_0615_M7.2_Barranca__Peru",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - western Xizang",
+      "directory": "event_analysis\\event_19971108_1002_M7.5_western_Xizang",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 34 km ESE of Port-Olry, Vanuatu",
+      "directory": "event_analysis\\event_19971115_1859_M7.0_Port-Olry__Vanuatu",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 97 km NW of Gorontalo, Indonesia",
+      "directory": "event_analysis\\event_19971125_1214_M7.0_Gorontalo__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.8 - 156 km S of Ust\u2019-Kamchatsk Staryy, Russia",
+      "directory": "event_analysis\\event_19971205_1126_M7.8_Ust\u2019-Kamchatsk_Staryy__Russia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 117 km N of Finschhafen, Papua New Guinea",
+      "directory": "event_analysis\\event_19971222_0205_M7.2_Finschhafen__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 34 km SSE of Antofagasta, Chile",
+      "directory": "event_analysis\\event_19980130_1216_M7.1_Ant",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 95 km W of Pariaman, Indonesia",
+      "directory": "event_analysis\\event_19980401_1756_M7.0_Pariaman__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - 254 km SSE of Ishigaki, Japan",
+      "directory": "event_analysis\\event_19980503_2330_M7.5_Ishigaki__Japan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 52 km SE of Lata, Solomon Islands",
+      "directory": "event_analysis\\event_19980716_1156_M7.0_Lata__Solomon_Islands",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 50 km WNW of Aitape, Papua New Guinea",
+      "directory": "event_analysis\\event_19980717_0849_M7.0_Aitape__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.2 - 3 km E of Bah\u00eda de Car\u00e1quez, Ecuador",
+      "directory": "event_analysis\\event_19980804_1859_M7.2_Bah\u00eda_de_Car\u00e1quez__Ecuador",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 278 km NE of Lospalos, Timor Leste",
+      "directory": "event_analysis\\event_19981109_0538_M7.0_Lospalos__Timor_Leste",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.7 - 264 km ESE of Luwuk, Indonesia",
+      "directory": "event_analysis\\event_19981129_1410_M7.7_Luwuk__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 110 km ESE of Kokopo, Papua New Guinea",
+      "directory": "event_analysis\\event_19990119_0335_M7.0_Kokopo__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 146 km NW of Sola, Vanuatu",
+      "directory": "event_analysis\\event_19990206_2147_M7.3_Sola__Vanuatu",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 69 km S of Tabiauan, Philippines",
+      "directory": "event_analysis\\event_19990304_0852_M7.1_Tabiauan__Philippines",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.4 - 63 km W of Kimbe, Papua New Guinea",
+      "directory": "event_analysis\\event_19990405_1108_M7.4_Kimbe__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 92 km ENE of Kimbe, Papua New Guinea",
+      "directory": "event_analysis\\event_19990510_2033_M7.1_Kimbe__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "event": "M 7.1 - 51 km SSE of Kokopo, Papua New Guinea",
+      "directory": "event_analysis\\event_19990516_0051_M7.1_Kokopo__Papua_New_Guinea",
+      "before_count": 1,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.0 - 1 km SE of Texcala, Mexico",
+      "directory": "event_analysis\\event_19990615_2042_M7.0_Texcala__Mexico",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.6 - 4 km ESE of Derince, Turkey",
+      "directory": "event_analysis\\event_19990817_0001_M7.6_Derince__Turkey",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.7 - 21 km S of Puli, Taiwan",
+      "directory": "event_analysis\\event_19990920_1747_M7.7_Puli__Taiwan",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.5 - 15 km W of San Baltazar Loxicha, Mexico",
+      "directory": "event_analysis\\event_19990930_1631_M7.5_San_Baltazar_Loxicha__Mexico",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - Hector Mine, CA Earthquake",
+      "directory": "event_analysis\\event_19991016_0946_M7.1_Hector_Mine__CA_Earthquake",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 8 km S of D\u00fczce, Turkey",
+      "directory": "event_analysis\\event_19991112_1657_M7.2_D\u00fczce__Turkey",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 88 km W of Kandrian, Papua New Guinea",
+      "directory": "event_analysis\\event_19991119_1356_M7.0_Kandrian__Papua_New_Guinea",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - 92 km ESE of Lakatoro, Vanuatu",
+      "directory": "event_analysis\\event_19991126_1321_M7.5_Lakatoro__Vanuatu",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 26 km SSE of Karluk, Alaska",
+      "directory": "event_analysis\\event_19991206_2312_M7.0_Karluk__Alaska",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 14 km WNW of Bolitoc, Philippines",
+      "directory": "event_analysis\\event_19991211_1803_M7.3_Bolitoc__Philippines",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 117 km SSW of Hihifo, Tonga",
+      "directory": "event_analysis\\event_20000108_1647_M7.2_Hihifo__Tonga",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.6 - 89 km E of Luwuk, Indonesia",
+      "directory": "event_analysis\\event_20000504_0421_M7.6_Luwuk__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 75 km N of San Antonio de los Cobres, Argentina",
+      "directory": "event_analysis\\event_20000512_1843_M7.2_San_Antonio_de_los_Cobres__Argentina",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.9 - 103 km S of Bengkulu, Indonesia",
+      "directory": "event_analysis\\event_20000604_1628_M7.9_Bengkulu__Indonesia",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "event": "M 7.9 - South Indian Ocean",
+      "directory": "event_analysis\\event_20000618_1444_M7.9_South_Indian_Ocean",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 29 km WNW of Luganville, Vanuatu",
+      "directory": "event_analysis\\event_20001004_1658_M7.0_Luganville__Vanuatu",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 191 km ESE of Kokopo, Papua New Guinea",
+      "directory": "event_analysis\\event_20001029_0837_M7.0_Kokopo__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 6
+    },
+    {
+      "event": "M 8.0 - 24 km N of Rabaul, Papua New Guinea",
+      "directory": "event_analysis\\event_20001116_0454_M8.0_Rabaul__Papua_New_Guinea",
+      "before_count": 1,
+      "after_count": 6
+    },
+    {
+      "event": "M 7.8 - 135 km SE of Kokopo, Papua New Guinea",
+      "directory": "event_analysis\\event_20001116_0742_M7.8_Kokopo__Papua_New_Guinea",
+      "before_count": 2,
+      "after_count": 5
+    },
+    {
+      "event": "M 7.8 - 138 km SSW of Kokopo, Papua New Guinea",
+      "directory": "event_analysis\\event_20001117_2101_M7.8_Kokopo__Papua_New_Guinea",
+      "before_count": 4,
+      "after_count": 3
+    },
+    {
+      "event": "M 7.0 - 37 km E of Balkanabat, Turkmenistan",
+      "directory": "event_analysis\\event_20001206_1711_M7.0_Balkanabat__Turkmenistan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - 21 km SE of Lukatan, Philippines",
+      "directory": "event_analysis\\event_20010101_0657_M7.5_Lukatan__Philippines",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.1 - 16 km NE of Port-Olry, Vanuatu",
+      "directory": "event_analysis\\event_20010109_1649_M7.1_Port-Olry__Vanuatu",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.7 - 28 km SSW of Puerto El Triunfo, El Salvador",
+      "directory": "event_analysis\\event_20010113_1733_M7.7_Puerto_El_Triunfo__El_Salvador",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.7 - 17 km NW of Bhach?u, India",
+      "directory": "event_analysis\\event_20010126_0316_M7.7_Bhachu__India",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.4 - 102 km SSE of Bengkulu, Indonesia",
+      "directory": "event_analysis\\event_20010213_1928_M7.4_Bengkulu__Indonesia",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 137 km WNW of Ternate, Indonesia",
+      "directory": "event_analysis\\event_20010224_0723_M7.1_Ternate__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.8 - 7 km SSE of Longbranch, Washington",
+      "directory": "event_analysis\\event_20010228_1854_M6.8_Longbranch__Washington",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 8.4 - 6 km SSW of Atico, Peru",
+      "directory": "event_analysis\\event_20010623_2033_M8.4_Atico__Peru",
+      "before_count": 0,
+      "after_count": 3
+    },
+    {
+      "event": "M 7.6 - 51 km SW of Punta de Bomb\u00f3n, Peru",
+      "directory": "event_analysis\\event_20010707_0938_M7.6_Punta_de_Bomb\u00f3n__Peru",
+      "before_count": 3,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 69 km SSE of Inarajan Village, Guam",
+      "directory": "event_analysis\\event_20011012_1502_M7.0_Inarajan_Village__Guam",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - 155 km E of Kendari, Indonesia",
+      "directory": "event_analysis\\event_20011019_0328_M7.5_Kendari__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 40 km S of Kimbe, Papua New Guinea",
+      "directory": "event_analysis\\event_20011031_0910_M7.0_Kimbe__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.8 - Southern Qinghai, China",
+      "directory": "event_analysis\\event_20011114_0926_M7.8_Southern_Qinghai__China",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 50 km WNW of Port-Vila, Vanuatu",
+      "directory": "event_analysis\\event_20020102_1722_M7.2_Port-Vila__Vanuatu",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.4 - 51 km SW of Jurm, Afghanistan",
+      "directory": "event_analysis\\event_20020303_1208_M7.4_Jurm__Afghanistan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - Mindanao, Philippines",
+      "directory": "event_analysis\\event_20020305_2116_M7.5_Mindanao__Philippines",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 67 km ENE of Hualien City, Taiwan",
+      "directory": "event_analysis\\event_20020331_0652_M7.1_Hualien_City__Taiwan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 20 km SSW of Merizo Village, Guam",
+      "directory": "event_analysis\\event_20020426_1606_M7.1_Merizo_Village__Guam",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.6 - 68 km ESE of Aitape, Papua New Guinea",
+      "directory": "event_analysis\\event_20020908_1844_M7.6_Aitape__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.6 - 102 km SSE of Manokwari, Indonesia",
+      "directory": "event_analysis\\event_20021010_1050_M7.6_Manokwari__Indonesia",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.4 - 50 km NW of Sinabang, Indonesia",
+      "directory": "event_analysis\\event_20021102_0126_M7.4_Sinabang__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.9 - 75 km E of Cantwell, Alaska",
+      "directory": "event_analysis\\event_20021103_2212_M7.9_Cantwell__Alaska",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 126 km W of Kirakira, Solomon Islands",
+      "directory": "event_analysis\\event_20030120_0843_M7.3_Kirakira__Solomon_Islands",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.6 - 16 km SSW of Cuyutl\u00e1n, Mexico",
+      "directory": "event_analysis\\event_20030122_0206_M7.6_Cuyutl\u00e1n__Mexico",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 27 km SSW of ?funato, Japan",
+      "directory": "event_analysis\\event_20030526_0924_M7.0_funato__Japan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 116 km NE of Tobelo, Indonesia",
+      "directory": "event_analysis\\event_20030526_1923_M7.0_Tobelo__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.6 - Scotia Sea",
+      "directory": "event_analysis\\event_20030804_0437_M7.6_Scotia_Sea",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 56 km NW of Te Anau, New Zealand",
+      "directory": "event_analysis\\event_20030821_1212_M7.2_Te_Anau__New_Zealand",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 8.2 - 134 km SSW of Kushiro, Japan",
+      "directory": "event_analysis\\event_20030925_1950_M8.16_Kushiro__Japan",
+      "before_count": 0,
+      "after_count": 3
+    },
+    {
+      "event": "M 7.4 - 119 km ESE of Shizunai-furukawach?, Japan",
+      "directory": "event_analysis\\event_20030925_2108_M7.4_Shizunai-furukawach__Japan",
+      "before_count": 1,
+      "after_count": 2
+    },
+    {
+      "event": "M 7.3 - 29 km S of Aktash, Russia",
+      "directory": "event_analysis\\event_20030927_1133_M7.3_Aktash__Russia",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.0 - 133 km ESE of Ishinomaki, Japan",
+      "directory": "event_analysis\\event_20031031_0106_M7.0_Ishinomaki__Japan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.5 - 10 km NE of San Simeon, California",
+      "directory": "event_analysis\\event_20031222_1915_M6.5_San_Simeon__California",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 201 km ESE of Tadine, New Caledonia",
+      "directory": "event_analysis\\event_20031227_1600_M7.3_Tadine__New_Caledonia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 28 km S of Nabire, Indonesia",
+      "directory": "event_analysis\\event_20040205_2105_M7.0_Nabire__Indonesia",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "event": "M 7.3 - Near the south coast of Papua, Indonesia",
+      "directory": "event_analysis\\event_20040207_0242_M7.3_Papua__Indonesia",
+      "before_count": 1,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.2 - 94 km SE of Shing?, Japan",
+      "directory": "event_analysis\\event_20040905_1007_M7.2_Shing__Japan",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "event": "M 7.4 - 118 km ESE of Shing?, Japan",
+      "directory": "event_analysis\\event_20040905_1457_M7.4_Shing__Japan",
+      "before_count": 1,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.0 - 43 km SSW of Masachapa, Nicaragua",
+      "directory": "event_analysis\\event_20041009_2126_M7.0_Masachapa__Nicaragua",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - 63 km NW of Maubara, Timor Leste",
+      "directory": "event_analysis\\event_20041111_2126_M7.5_Maubara__Timor_Leste",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 32 km SSW of Pizarro, Colombia",
+      "directory": "event_analysis\\event_20041115_0906_M7.2_Pizarro__Colombia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 255 km W of Riverton, New Zealand",
+      "directory": "event_analysis\\event_20041122_2026_M7.1_Riverton__New_Zealand",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 29 km SSW of Nabire, Indonesia",
+      "directory": "event_analysis\\event_20041126_0225_M7.1_Nabire__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 51 km SW of Nemuro, Japan",
+      "directory": "event_analysis\\event_20041128_1832_M7.0_Nemuro__Japan",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 6.8 - 36 km S of George Town, Cayman Islands",
+      "directory": "event_analysis\\event_20041214_2320_M6.8_George_Town__Cayman_Islands",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 8.1 - north of Macquarie Island",
+      "directory": "event_analysis\\event_20041223_1459_M8.1_Macquarie_Island",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 9.1 - 2004 Sumatra - Andaman Islands Earthquake",
+      "directory": "event_analysis\\event_20041226_0058_M9.1_2004_Sumatra_-_Andaman_Islands_Earthquake",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.2 - 284 km WNW of Sabang, Indonesia",
+      "directory": "event_analysis\\event_20041226_0421_M7.2_Sabang__Indonesia",
+      "before_count": 1,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.1 - 138 km SW of Palimbang, Philippines",
+      "directory": "event_analysis\\event_20050205_1223_M7.1_Palimbang__Philippines",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.1 - Banda Sea",
+      "directory": "event_analysis\\event_20050302_1042_M7.1_Banda_Sea",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.6 - 28 km NNW of Maebaru-ch??, Japan",
+      "directory": "event_analysis\\event_20050320_0153_M6.6_Maebaru-ch__Japan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 8.6 - 78 km WSW of Singkil, Indonesia",
+      "directory": "event_analysis\\event_20050328_1609_M8.6_Singkil__Indonesia",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "event": "M 7.8 - 102 km ENE of Iquique, Chile",
+      "directory": "event_analysis\\event_20050613_2244_M7.8_Iquique__Chile",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 153 km W of Big Lagoon, California",
+      "directory": "event_analysis\\event_20050615_0250_M7.2_Big_Lagoon__California",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - Nicobar Islands, India region",
+      "directory": "event_analysis\\event_20050724_1542_M7.2_Nicobar_Islands__India_region",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 66 km ESE of Ishinomaki, Japan",
+      "directory": "event_analysis\\event_20050816_0246_M7.2_Ishinomaki__Japan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.6 - 135 km E of Kokopo, Papua New Guinea",
+      "directory": "event_analysis\\event_20050909_0726_M7.6_Kokopo__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.5 - 39 km NW of Yurimaguas, Peru",
+      "directory": "event_analysis\\event_20050926_0155_M7.5_Yurimaguas__Peru",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.6 - 21 km NNE of Muzaffar?b?d, Pakistan",
+      "directory": "event_analysis\\event_20051008_0350_M7.6_Muzaffarbd__Pakistan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.7 - 26 km NE of K\u00fdthira, Greece",
+      "directory": "event_analysis\\event_20060108_1134_M6.7_K\u00fdthira__Greece",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 160 km SE of Chipinge, Zimbabwe",
+      "directory": "event_analysis\\event_20060222_2219_M7.0_Chipinge__Zimbabwe",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.6 - 80 km NE of Tilichiki, Russia",
+      "directory": "event_analysis\\event_20060420_2325_M7.6_Tilichiki__Russia",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 8.0 - 50 km ESE of Pangai, Tonga",
+      "directory": "event_analysis\\event_20060503_1526_M8.0_Pangai__Tonga",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 8.0 - 47 km SSE of Pangai, Tonga",
+      "directory": "event_analysis\\event_20060503_1526_M8.0_Pangai__Tonga",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.7 - 226 km SSW of Singaparna, Indonesia",
+      "directory": "event_analysis\\event_20060717_0819_M7.7_Singaparna__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.7 - 14 km SW of Puako, Hawaii",
+      "directory": "event_analysis\\event_20061015_1707_M6.7_Puako__Hawaii",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 8.3 - Kuril Islands",
+      "directory": "event_analysis\\event_20061115_1114_M8.3_Kuril_Islands",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 30 km SW of Hengchun, Taiwan",
+      "directory": "event_analysis\\event_20061226_1226_M7.1_Hengchun__Taiwan",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 8.1 - east of the Kuril Islands",
+      "directory": "event_analysis\\event_20070113_0423_M8.1_the_Kuril_Islands",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - 126 km WNW of Ternate, Indonesia",
+      "directory": "event_analysis\\event_20070121_1127_M7.5_Ternate__Indonesia",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.1 - 119 km S of Isangel, Vanuatu",
+      "directory": "event_analysis\\event_20070325_0040_M7.1_Isangel__Vanuatu",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 8.1 - 45 km SSE of Gizo, Solomon Islands",
+      "directory": "event_analysis\\event_20070401_2039_M8.1_Gizo__Solomon_Islands",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "event": "M 6.7 - 43 km SSE of Iztapa, Guatemala",
+      "directory": "event_analysis\\event_20070613_1929_M6.7_Iztapa__Guatemala",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.6 - 20 km NNW of Kashiwazaki, Japan",
+      "directory": "event_analysis\\event_20070716_0113_M6.6_Kashiwazaki__Japan",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.2 - 56 km E of Luganville, Vanuatu",
+      "directory": "event_analysis\\event_20070801_1708_M7.2_Luganville__Vanuatu",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - 35 km NNE of Rengasdengklok, Indonesia",
+      "directory": "event_analysis\\event_20070808_1705_M7.5_Rengasdengklok__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 8.0 - 41 km SW of San Vicente de Ca\u00f1ete, Peru",
+      "directory": "event_analysis\\event_20070815_2340_M8.0_San_Vicente_de_Ca\u00f1ete__Peru",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 97 km S of Lata, Solomon Islands",
+      "directory": "event_analysis\\event_20070902_0105_M7.2_Lata__Solomon_Islands",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 8.4 - 122 km SW of Bengkulu, Indonesia",
+      "directory": "event_analysis\\event_20070912_1110_M8.4_Bengkulu__Indonesia",
+      "before_count": 0,
+      "after_count": 5
+    },
+    {
+      "event": "M 7.8 - 148 km WSW of Sungai Penuh, Indonesia",
+      "directory": "event_analysis\\event_20070912_2349_M7.8_Sungai_Penuh__Indonesia",
+      "before_count": 1,
+      "after_count": 3
+    },
+    {
+      "event": "M 7.9 - 87 km SW of Sungai Penuh, Indonesia",
+      "directory": "event_analysis\\event_20070912_2349_M7.9_Sungai_Penuh__Indonesia",
+      "before_count": 1,
+      "after_count": 3
+    },
+    {
+      "event": "M 7.0 - 153 km SSW of Padang, Indonesia",
+      "directory": "event_analysis\\event_20070913_0335_M7.0_Padang__Indonesia",
+      "before_count": 4,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.7 - 36 km ESE of Tocopilla, Chile",
+      "directory": "event_analysis\\event_20071114_1540_M7.7_Tocopilla__Chile",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.4 - 18 km WNW of Basse-Pointe, Martinique",
+      "directory": "event_analysis\\event_20071129_1900_M7.4_Basse-Pointe__Martinique",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.6 - 46 km SSE of Gisborne, New Zealand",
+      "directory": "event_analysis\\event_20071220_0755_M6.6_Gisborne__New_Zealand",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.9 - 35 km S of Meth\u00f3ni, Greece",
+      "directory": "event_analysis\\event_20080214_1009_M6.9_Meth\u00f3ni__Greece",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.4 - 56 km NW of Sinabang, Indonesia",
+      "directory": "event_analysis\\event_20080220_0808_M7.4_Sinabang__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 164 km WSW of Sungai Penuh, Indonesia",
+      "directory": "event_analysis\\event_20080225_0836_M7.2_Sungai_Penuh__Indonesia",
+      "before_count": 1,
+      "after_count": 2
+    },
+    {
+      "event": "M 7.2 - 226 km SE of Hotan, China",
+      "directory": "event_analysis\\event_20080320_2232_M7.2_Hotan__China",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 71 km SW of Isangel, Vanuatu",
+      "directory": "event_analysis\\event_20080409_1246_M7.3_Isangel__Vanuatu",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.9 - 78 km NE of Hasaki, Japan",
+      "directory": "event_analysis\\event_20080507_1645_M6.9_Hasaki__Japan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.9 - 58 km W of Tianpeng, China",
+      "directory": "event_analysis\\event_20080512_0628_M7.9_Tianpeng__China",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.9 - 24 km WSW of Mizusawa, Japan",
+      "directory": "event_analysis\\event_20080613_2343_M6.9_Mizusawa__Japan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.9 - 151 km E of Namie, Japan",
+      "directory": "event_analysis\\event_20080719_0239_M6.9_Namie__Japan",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.0 - 107 km E of Namie, Japan",
+      "directory": "event_analysis\\event_20080719_0239_M7.0_Namie__Japan",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 6.8 - 29 km ENE of Morioka, Japan",
+      "directory": "event_analysis\\event_20080723_1526_M6.8_Morioka__Japan",
+      "before_count": 2,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.4 - 135 km NW of Gorontalo, Indonesia",
+      "directory": "event_analysis\\event_20081116_1702_M7.4_Gorontalo__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.7 - 140 km WNW of Manokwari, Indonesia",
+      "directory": "event_analysis\\event_20090103_1943_M7.7_Manokwari__Indonesia",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.4 - 86 km WNW of Manokwari, Indonesia",
+      "directory": "event_analysis\\event_20090103_2233_M7.4_Manokwari__Indonesia",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 196 km SSE of Sarangani, Philippines",
+      "directory": "event_analysis\\event_20090211_1734_M7.2_Sarangani__Philippines",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.6 - 191 km S of \u2018Ohonua, Tonga",
+      "directory": "event_analysis\\event_20090319_1817_M7.6_\u2018Ohonua__Tonga",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 46 km NW of Guanaja, Honduras",
+      "directory": "event_analysis\\event_20090528_0824_M7.3_Guanaja__Honduras",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.8 - 97 km WSW of Te Anau, New Zealand",
+      "directory": "event_analysis\\event_20090715_0922_M7.8_Te_Anau__New_Zealand",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.9 - 96 km WNW of Bah\u00eda de Kino, Mexico",
+      "directory": "event_analysis\\event_20090803_1759_M6.9_Bah\u00eda_de_Kino__Mexico",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 161 km S of ?yama, Japan",
+      "directory": "event_analysis\\event_20090809_1055_M7.1_yama__Japan",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.5 - 266 km N of Bamboo Flat, India",
+      "directory": "event_analysis\\event_20090810_1955_M7.5_Bamboo_Flat__India",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 66 km SSW of Banjar, Indonesia",
+      "directory": "event_analysis\\event_20090902_0755_M7.0_Banjar__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 8.1 - 168 km SSW of Matavai, Samoa",
+      "directory": "event_analysis\\event_20090929_1748_M8.1_Matavai__Samoa",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.6 - 30 km WSW of Pariaman, Indonesia",
+      "directory": "event_analysis\\event_20090930_1016_M7.6_Pariaman__Indonesia",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.7 - 148 km NW of Sola, Vanuatu",
+      "directory": "event_analysis\\event_20091007_2203_M7.7_Sola__Vanuatu",
+      "before_count": 0,
+      "after_count": 3
+    },
+    {
+      "event": "M 7.8 - 196 km NW of Sola, Vanuatu",
+      "directory": "event_analysis\\event_20091007_2218_M7.8_Sola__Vanuatu",
+      "before_count": 1,
+      "after_count": 2
+    },
+    {
+      "event": "M 7.4 - 143 km NW of Sola, Vanuatu",
+      "directory": "event_analysis\\event_20091007_2313_M7.4_Sola__Vanuatu",
+      "before_count": 2,
+      "after_count": 1
+    },
+    {
+      "event": "M 6.9 - 268 km WSW of Tual, Indonesia",
+      "directory": "event_analysis\\event_20091024_1440_M6.9_Tual__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 77 km ENE of Ba, Fiji",
+      "directory": "event_analysis\\event_20091109_1044_M7.3_Ba__Fiji",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 94 km SE of Gizo, Solomon Islands",
+      "directory": "event_analysis\\event_20100103_2236_M7.1_Gizo__Solomon_Islands",
+      "before_count": 1,
+      "after_count": 1
+    },
+    {
+      "event": "M 6.5 - 37 km WNW of Ferndale, California",
+      "directory": "event_analysis\\event_20100110_0027_M6.5_Ferndale__California",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 10 km SE of L\u00e9og\u00e2ne, Haiti",
+      "directory": "event_analysis\\event_20100112_2153_M7.0_L\u00e9og\u00e2ne__Haiti",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 70 km SE of Katsuren-haebaru, Japan",
+      "directory": "event_analysis\\event_20100226_2031_M7.0_Katsuren-haebaru__Japan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 8.8 - 36 km WNW of Quirihue, Chile",
+      "directory": "event_analysis\\event_20100227_0634_M8.8_Quirihue__Chile",
+      "before_count": 0,
+      "after_count": 5
+    },
+    {
+      "event": "M 7.4 - 124 km W of Lebu, Chile",
+      "directory": "event_analysis\\event_20100227_0801_M7.4_Lebu__Chile",
+      "before_count": 1,
+      "after_count": 4
+    },
+    {
+      "event": "M 6.9 - 61 km NW of Santa Cruz, Chile",
+      "directory": "event_analysis\\event_20100311_1439_M6.9_Santa_Cruz__Chile",
+      "before_count": 3,
+      "after_count": 2
+    },
+    {
+      "event": "M 7.0 - 52 km NW of Santa Cruz, Chile",
+      "directory": "event_analysis\\event_20100311_1455_M7.0_Santa_Cruz__Chile",
+      "before_count": 4,
+      "after_count": 1
+    },
+    {
+      "event": "M 6.5 - 59 km ENE of Namie, Japan",
+      "directory": "event_analysis\\event_20100314_0808_M6.5_Namie__Japan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.7 - 52 km NNW of Tom\u00e9, Chile",
+      "directory": "event_analysis\\event_20100316_0221_M6.7_Tom\u00e9__Chile",
+      "before_count": 5,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 12km SW of Delta, B.C., MX",
+      "directory": "event_analysis\\event_20100404_2240_M7.2_Delta__B.C.__MX",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.8 - 75 km E of Sinabang, Indonesia",
+      "directory": "event_analysis\\event_20100406_2215_M7.8_Sinabang__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 45 km SSW of Meulaboh, Indonesia",
+      "directory": "event_analysis\\event_20100509_0559_M7.2_Meulaboh__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 100 km WNW of Sola, Vanuatu",
+      "directory": "event_analysis\\event_20100527_1714_M7.2_Sola__Vanuatu",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - Nicobar Islands, India region",
+      "directory": "event_analysis\\event_20100612_1926_M7.5_Nicobar_Islands__India_region",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 121 km SSE of Biak, Indonesia",
+      "directory": "event_analysis\\event_20100616_0316_M7.0_Biak__Indonesia",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.3 - New Britain region, Papua New Guinea",
+      "directory": "event_analysis\\event_20100718_1334_M7.3_New_Britain_region__Papua_New_Guinea",
+      "before_count": 1,
+      "after_count": 2
+    },
+    {
+      "event": "M 7.6 - 61 km W of Bantogon, Philippines",
+      "directory": "event_analysis\\event_20100723_2251_M7.6_Bantogon__Philippines",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 72 km ESE of Kimbe, Papua New Guinea",
+      "directory": "event_analysis\\event_20100804_2201_M7.0_Kimbe__Papua_New_Guinea",
+      "before_count": 3,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 33 km NW of Port-Vila, Vanuatu",
+      "directory": "event_analysis\\event_20100810_0523_M7.3_Port-Vila__Vanuatu",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - Ecuador",
+      "directory": "event_analysis\\event_20100812_1154_M7.1_Ecuador",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 19 km NE of Methven, New Zealand",
+      "directory": "event_analysis\\event_20100903_1635_M7.0_Methven__New_Zealand",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - Near the south coast of Papua, Indonesia",
+      "directory": "event_analysis\\event_20100929_1711_M7.0_Papua__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.8 - 215 km SW of Sungai Penuh, Indonesia",
+      "directory": "event_analysis\\event_20101025_1442_M7.8_Sungai_Penuh__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 141 km W of Isangel, Vanuatu",
+      "directory": "event_analysis\\event_20101225_1316_M7.3_Isangel__Vanuatu",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.2 - 42 km NNW of Carahue, Chile",
+      "directory": "event_analysis\\event_20110102_2020_M7.2_Carahue__Chile",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 118 km NNE of Tadine, New Caledonia",
+      "directory": "event_analysis\\event_20110113_1616_M7.0_Tadine__New_Caledonia",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 46 km WSW of Dalbandin, Pakistan",
+      "directory": "event_analysis\\event_20110118_2023_M7.2_Dalbandin__Pakistan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.9 - 21 km N of Tom\u00e9, Chile",
+      "directory": "event_analysis\\event_20110211_2005_M6.9_Tom\u00e9__Chile",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.3 - 120 km SE of ?funato, Japan",
+      "directory": "event_analysis\\event_20110309_0245_M7.3_funato__Japan",
+      "before_count": 0,
+      "after_count": 6
+    },
+    {
+      "event": "M 9.1 - 2011 Great Tohoku Earthquake, Japan",
+      "directory": "event_analysis\\event_20110311_0546_M9.1_2011_Great_Tohoku_Earthquake__Japan",
+      "before_count": 1,
+      "after_count": 5
+    },
+    {
+      "event": "M 7.9 - 47 km E of ?arai, Japan",
+      "directory": "event_analysis\\event_20110311_0615_M7.9_arai__Japan",
+      "before_count": 2,
+      "after_count": 4
+    },
+    {
+      "event": "M 7.7 - 272 km ESE of Kamaishi, Japan",
+      "directory": "event_analysis\\event_20110311_0625_M7.7_Kamaishi__Japan",
+      "before_count": 3,
+      "after_count": 3
+    },
+    {
+      "event": "M 6.9 - 27 km NNW of Tachilek, Myanmar",
+      "directory": "event_analysis\\event_20110324_1355_M6.9_Tachilek__Myanmar",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.6 - 7 km SW of Helio Garc\u00eda Alfaro, Mexico",
+      "directory": "event_analysis\\event_20110407_1311_M6.6_Helio_Garc\u00eda_Alfaro__Mexico",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 29 km ESE of Ishinomaki, Japan",
+      "directory": "event_analysis\\event_20110407_1432_M7.1_Ishinomaki__Japan",
+      "before_count": 6,
+      "after_count": 1
+    },
+    {
+      "event": "M 6.6 - 17 km SSW of Ishikawa, Japan",
+      "directory": "event_analysis\\event_20110411_0816_M6.6_Ishikawa__Japan",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.6 - Kermadec Islands region",
+      "directory": "event_analysis\\event_20110706_1903_M7.6_Kermadec_Islands_region",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 71 km SSW of Port-Vila, Vanuatu",
+      "directory": "event_analysis\\event_20110820_1655_M7.2_Port-Vila__Vanuatu",
+      "before_count": 0,
+      "after_count": 3
+    },
+    {
+      "event": "M 7.1 - 64 km S of Port-Vila, Vanuatu",
+      "directory": "event_analysis\\event_20110820_1819_M7.1_Port-Vila__Vanuatu",
+      "before_count": 2,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.0 - 64 km ESE of Contamana, Peru",
+      "directory": "event_analysis\\event_20110824_1746_M7.0_Contamana__Peru",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 133 km SSE of Isangel, Vanuatu",
+      "directory": "event_analysis\\event_20110903_2255_M7.0_Isangel__Vanuatu",
+      "before_count": 3,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.7 - 68 km WSW of Kabanjahe, Indonesia",
+      "directory": "event_analysis\\event_20110905_1755_M6.7_Kabanjahe__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.9 - 43 km NW of Mangan, India",
+      "directory": "event_analysis\\event_20110918_1240_M6.9_Mangan__India",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 27 km NNE of Van, Turkey",
+      "directory": "event_analysis\\event_20111023_1041_M7.1_Van__Turkey",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.9 - 39 km SW of Santiago, Peru",
+      "directory": "event_analysis\\event_20111028_1854_M6.9_Santiago__Peru",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.5 - 6 km SSW of Nuevo Balsas, Mexico",
+      "directory": "event_analysis\\event_20111211_0147_M6.5_Nuevo_Balsas__Mexico",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 25 km SSE of Wau, Papua New Guinea",
+      "directory": "event_analysis\\event_20111214_0504_M7.1_Wau__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - off the west coast of northern Sumatra",
+      "directory": "event_analysis\\event_20120110_1836_M7.2_off_the_west_coast_of_northern_Sumatra",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 125 km W of Port-Vila, Vanuatu",
+      "directory": "event_analysis\\event_20120202_1334_M7.1_Port-Vila__Vanuatu",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.7 - 2 km NNE of Jimalalud, Philippines",
+      "directory": "event_analysis\\event_20120206_0349_M6.7_Jimalalud__Philippines",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.7 - 38 km NE of Saryg-Sep, Russia",
+      "directory": "event_analysis\\event_20120226_0617_M6.7_Saryg-Sep__Russia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.4 - 6 km E of Santiago Llano Grande, Mexico",
+      "directory": "event_analysis\\event_20120320_1802_M7.4_Santiago_Llano_Grande__Mexico",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.1 - 23 km NE of Constituci\u00f3n, Chile",
+      "directory": "event_analysis\\event_20120325_2237_M7.1_Constituci\u00f3n__Chile",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 8.6 - off the west coast of northern Sumatra",
+      "directory": "event_analysis\\event_20120411_0838_M8.6_off_the_west_coast_of_northern_Sumatra",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 8.2 - off the west coast of northern Sumatra",
+      "directory": "event_analysis\\event_20120411_1043_M8.2_off_the_west_coast_of_northern_Sumatra",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.5 - 41 km NW of El Habillal, Mexico",
+      "directory": "event_analysis\\event_20120411_2255_M6.5_El_Habillal__Mexico",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 69 km ENE of San Luis, Mexico",
+      "directory": "event_analysis\\event_20120412_0715_M7.0_San_Luis__Mexico",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.7 - 156 km ENE of Poronaysk, Russia",
+      "directory": "event_analysis\\event_20120814_0259_M7.7_Poronaysk__Russia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 126 km S of Puerto El Triunfo, El Salvador",
+      "directory": "event_analysis\\event_20120827_0437_M7.3_Puerto_El_Triunfo__El_Salvador",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.6 - 89 km E of Sulangan, Philippines",
+      "directory": "event_analysis\\event_20120831_1247_M7.6_Sulangan__Philippines",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.6 - 11 km ENE of Hojancha, Costa Rica",
+      "directory": "event_analysis\\event_20120905_1442_M7.6_Hojancha__Costa_Rica",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 11 km WNW of San Agust\u00edn, Colombia",
+      "directory": "event_analysis\\event_20120930_1631_M7.3_San_Agust\u00edn__Colombia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.8 - 206 km SW of Prince Rupert, Canada",
+      "directory": "event_analysis\\event_20121028_0304_M7.8_Prince_Rupert__Canada",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.4 - 33 km S of Champerico, Guatemala",
+      "directory": "event_analysis\\event_20121107_1635_M7.4_Champerico__Guatemala",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.3 - 234 km SE of ?funato, Japan",
+      "directory": "event_analysis\\event_20121207_0818_M7.3_funato__Japan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - Banda Sea",
+      "directory": "event_analysis\\event_20121210_1653_M7.1_Banda_Sea",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - 110 km SW of Edna Bay, Alaska",
+      "directory": "event_analysis\\event_20130105_0858_M7.5_Edna_Bay__Alaska",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.9 - 18 km SSW of Obihiro, Japan",
+      "directory": "event_analysis\\event_20130202_1417_M6.9_Obihiro__Japan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 8.0 - 75 km W of Lata, Solomon Islands",
+      "directory": "event_analysis\\event_20130206_0112_M8.0_Lata__Solomon_Islands",
+      "before_count": 0,
+      "after_count": 6
+    },
+    {
+      "event": "M 7.1 - 112 km WSW of Lata, Solomon Islands",
+      "directory": "event_analysis\\event_20130206_0123_M7.1_Lata__Solomon_Islands",
+      "before_count": 1,
+      "after_count": 5
+    },
+    {
+      "event": "M 7.0 - 33 km NW of Lata, Solomon Islands",
+      "directory": "event_analysis\\event_20130206_0154_M7.0_Lata__Solomon_Islands",
+      "before_count": 2,
+      "after_count": 4
+    },
+    {
+      "event": "M 7.1 - 32 km SE of Lata, Solomon Islands",
+      "directory": "event_analysis\\event_20130208_1526_M7.1_Lata__Solomon_Islands",
+      "before_count": 5,
+      "after_count": 1
+    },
+    {
+      "event": "M 6.9 - 2 km NNE of Yacuanquer, Colombia",
+      "directory": "event_analysis\\event_20130209_1416_M6.9_Yacuanquer__Colombia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 260 km WSW of Abepura, Indonesia",
+      "directory": "event_analysis\\event_20130406_0442_M7.0_Abepura__Indonesia",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.7 - 79 km ESE of Kh?sh, Iran",
+      "directory": "event_analysis\\event_20130416_1044_M7.7_Khsh__Iran",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 252 km ENE of Kuril\u2019sk, Russia",
+      "directory": "event_analysis\\event_20130419_0305_M7.2_Kuril\u2019sk__Russia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.6 - 56 km WSW of Linqiong, China",
+      "directory": "event_analysis\\event_20130420_0002_M6.6_Linqiong__China",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.4 - 292 km SW of Vaini, Tonga",
+      "directory": "event_analysis\\event_20130523_1719_M7.4_Vaini__Tonga",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 8.3 - Sea of Okhotsk",
+      "directory": "event_analysis\\event_20130524_0544_M8.3_Okhotsk",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.3 - 190 km ENE of Kokopo, Papua New Guinea",
+      "directory": "event_analysis\\event_20130707_1835_M7.3_Kokopo__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.3 - South Sandwich Islands region",
+      "directory": "event_analysis\\event_20130715_1403_M7.3_South_Sandwich_Islands_region",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 101 km SW of Atka, Alaska",
+      "directory": "event_analysis\\event_20130830_1625_M7.0_Atka__Alaska",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.7 - 113 km NW of Bela, Pakistan",
+      "directory": "event_analysis\\event_20130924_1129_M7.7_Bela__Pakistan",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.1 - 16 km WSW of Atiquipa, Peru",
+      "directory": "event_analysis\\event_20130925_1642_M7.1_Atiquipa__Peru",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.8 - 129 km WSW of Khuzdar, Pakistan",
+      "directory": "event_analysis\\event_20130928_0734_M6.8_Khuzdar__Pakistan",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 4 km SE of Sagbayan, Philippines",
+      "directory": "event_analysis\\event_20131015_0012_M7.1_Sagbayan__Philippines",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - off the east coast of Honshu, Japan",
+      "directory": "event_analysis\\event_20131025_1710_M7.1_off_the_east_coast_of_Honshu__Japan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.7 - Scotia Sea",
+      "directory": "event_analysis\\event_20131117_0904_M7.7_Scotia_Sea",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.8 - 77 km WNW of Indianola, California",
+      "directory": "event_analysis\\event_20140310_0518_M6.8_Indianola__California",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 8.2 - 93 km NW of Iquique, Chile",
+      "directory": "event_analysis\\event_20140401_2346_M8.2_Iquique__Chile",
+      "before_count": 1,
+      "after_count": 3
+    },
+    {
+      "event": "M 7.7 - 53 km SW of Iquique, Chile",
+      "directory": "event_analysis\\event_20140403_0243_M7.7_Iquique__Chile",
+      "before_count": 4,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 56 km WSW of Panguna, Papua New Guinea",
+      "directory": "event_analysis\\event_20140411_0707_M7.1_Panguna__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 3
+    },
+    {
+      "event": "M 7.6 - 93 km SSE of Kirakira, Solomon Islands",
+      "directory": "event_analysis\\event_20140412_2014_M7.6_Kirakira__Solomon_Islands",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "event": "M 7.4 - 112 km S of Kirakira, Solomon Islands",
+      "directory": "event_analysis\\event_20140413_1236_M7.4_Kirakira__Solomon_Islands",
+      "before_count": 1,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.2 - 9 km ENE of Coyuquilla Norte, Mexico",
+      "directory": "event_analysis\\event_20140418_1427_M7.2_Coyuquilla_Norte__Mexico",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - 70 km SW of Panguna, Papua New Guinea",
+      "directory": "event_analysis\\event_20140419_1328_M7.5_Panguna__Papua_New_Guinea",
+      "before_count": 3,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.5 - 107 km WSW of Vernon, Canada",
+      "directory": "event_analysis\\event_20140424_0310_M6.5_Vernon__Canada",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.9 - 21 km SSW of Kamari\u00f3tissa, Greece",
+      "directory": "event_analysis\\event_20140524_0925_M6.9_Kamari\u00f3tissa__Greece",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.9 - Rat Islands, Aleutian Islands, Alaska",
+      "directory": "event_analysis\\event_20140623_2053_M7.9_Rat_Islands__Aleutian_Islands__Alaska",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.9 - 4 km W of Puerto Madero, Mexico",
+      "directory": "event_analysis\\event_20140707_1123_M6.9_Puerto_Madero__Mexico",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 74 km S of Intipuc\u00e1, El Salvador",
+      "directory": "event_analysis\\event_20141014_0351_M7.3_Intipuc\u00e1__El_Salvador",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - Fiji region",
+      "directory": "event_analysis\\event_20141101_1857_M7.1_Fiji_region",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 155 km NW of Ternate, Indonesia",
+      "directory": "event_analysis\\event_20141115_0231_M7.1_Ternate__Indonesia",
+      "before_count": 0,
+      "after_count": 3
+    },
+    {
+      "event": "M 7.0 - 150 km NNE of Maumere, Indonesia",
+      "directory": "event_analysis\\event_20150227_1345_M7.0_Maumere__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - 53 km SE of Kokopo, Papua New Guinea",
+      "directory": "event_analysis\\event_20150329_2348_M7.5_Kokopo__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.8 - 67 km NNE of Bharatpur, Nepal",
+      "directory": "event_analysis\\event_20150425_0611_M7.8_Bharatpur__Nepal",
+      "before_count": 0,
+      "after_count": 3
+    },
+    {
+      "event": "M 6.7 - 21 km SSE of Kod?ri??, Nepal",
+      "directory": "event_analysis\\event_20150426_0709_M6.7_Kodri__Nepal",
+      "before_count": 2,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.5 - 131 km SSW of Kokopo, Papua New Guinea",
+      "directory": "event_analysis\\event_20150505_0144_M7.5_Kokopo__Papua_New_Guinea",
+      "before_count": 2,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.1 - 143 km SW of Panguna, Papua New Guinea",
+      "directory": "event_analysis\\event_20150507_0710_M7.1_Panguna__Papua_New_Guinea",
+      "before_count": 3,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - Nepal",
+      "directory": "event_analysis\\event_20150512_0705_M7.3_Nepal",
+      "before_count": 3,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.8 - 32 km SE of ?funato, Japan",
+      "directory": "event_analysis\\event_20150512_2112_M6.8_funato__Japan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.8 - Bonin Islands, Japan region",
+      "directory": "event_analysis\\event_20150530_1123_M7.8_Bonin_Islands__Japan_region",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.0 - 80 km WNW of Lata, Solomon Islands",
+      "directory": "event_analysis\\event_20150718_0227_M7.0_Lata__Solomon_Islands",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 234 km W of Abepura, Indonesia",
+      "directory": "event_analysis\\event_20150727_2141_M7.0_Abepura__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 8.3 - 48 km W of Illapel, Chile",
+      "directory": "event_analysis\\event_20150916_2254_M8.3_Illapel__Chile",
+      "before_count": 0,
+      "after_count": 4
+    },
+    {
+      "event": "M 7.0 - 25 km WNW of Illapel, Chile",
+      "directory": "event_analysis\\event_20150916_2318_M7.0_Illapel__Chile",
+      "before_count": 1,
+      "after_count": 3
+    },
+    {
+      "event": "M 6.6 - 22 km WSW of Illapel, Chile",
+      "directory": "event_analysis\\event_20150921_1740_M6.6_Illapel__Chile",
+      "before_count": 4,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 31 km NE of Port-Olry, Vanuatu",
+      "directory": "event_analysis\\event_20151020_2152_M7.1_Port-Olry__Vanuatu",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - Hindu Kush region, Afghanistan",
+      "directory": "event_analysis\\event_20151026_0909_M7.5_Hindu_Kush_region__Afghanistan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.8 - 39 km SW of Ovalle, Chile",
+      "directory": "event_analysis\\event_20151107_0731_M6.8_Ovalle__Chile",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "event": "M 6.5 - 19 km SSW of Lefk\u00e1da, Greece",
+      "directory": "event_analysis\\event_20151117_0710_M6.5_Lefk\u00e1da__Greece",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.6 - 155 km WNW of I\u00f1apari, Peru",
+      "directory": "event_analysis\\event_20151124_2245_M7.6_I\u00f1apari__Peru",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "event": "M 7.6 - 185 km WNW of I\u00f1apari, Peru",
+      "directory": "event_analysis\\event_20151124_2250_M7.6_I\u00f1apari__Peru",
+      "before_count": 1,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.2 - 104 km W of Murghob, Tajikistan",
+      "directory": "event_analysis\\event_20151207_0750_M7.2_Murghob__Tajikistan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.7 - 29 km W of Imph?l, India",
+      "directory": "event_analysis\\event_20160103_2305_M6.7_Imphl__India",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 47 km ESE of Pedro Bay, Alaska",
+      "directory": "event_analysis\\event_20160124_1030_M7.1_Pedro_Bay__Alaska",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 80 km S of Mil\u2019kovo, Russia",
+      "directory": "event_analysis\\event_20160130_0325_M7.2_Mil\u2019kovo__Russia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.8 - southwest of Sumatra, Indonesia",
+      "directory": "event_analysis\\event_20160302_1249_M7.8_Sumatra__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.9 - 76 km SE of Mawlaik, Myanmar",
+      "directory": "event_analysis\\event_20160413_1355_M6.9_Mawlaik__Myanmar",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 6 km ESE of Kumamoto, Japan",
+      "directory": "event_analysis\\event_20160415_1625_M7.0_Kumamoto__Japan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.8 - 27 km SSE of Muisne, Ecuador",
+      "directory": "event_analysis\\event_20160416_2358_M7.8_Muisne__Ecuador",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 3 km NW of Norsup, Vanuatu",
+      "directory": "event_analysis\\event_20160428_1933_M7.0_Norsup__Vanuatu",
+      "before_count": 3,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - South Sandwich Islands region",
+      "directory": "event_analysis\\event_20160528_0946_M7.2_South_Sandwich_Islands_region",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.7 - Pagan region, Northern Mariana Islands",
+      "directory": "event_analysis\\event_20160729_2118_M7.7_Pagan_region__Northern_Mariana_Islands",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - southeast of the Loyalty Islands",
+      "directory": "event_analysis\\event_20160812_0126_M7.2_the_Loyalty_Islands",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.8 - 26 km W of Chauk, Myanmar",
+      "directory": "event_analysis\\event_20160824_1034_M6.8_Chauk__Myanmar",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 175 km NE of Gisborne, New Zealand",
+      "directory": "event_analysis\\event_20160901_1637_M7.0_Gisborne__New_Zealand",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.6 - 5 km ESE of Preci, Italy",
+      "directory": "event_analysis\\event_20161030_0640_M6.6_Preci__Italy",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.8 - 53 km NNE of Amberley, New Zealand",
+      "directory": "event_analysis\\event_20161113_1102_M7.8_Amberley__New_Zealand",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "event": "M 6.9 - 35 km ESE of Namie, Japan",
+      "directory": "event_analysis\\event_20161121_2059_M6.9_Namie__Japan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.9 - 156 km SSW of Puerto El Triunfo, El Salvador",
+      "directory": "event_analysis\\event_20161124_1843_M6.9_Puerto_El_Triunfo__El_Salvador",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.6 - 164 km W of Ferndale, California",
+      "directory": "event_analysis\\event_20161208_1449_M6.6_Ferndale__California",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.8 - 69 km WSW of Kirakira, Solomon Islands",
+      "directory": "event_analysis\\event_20161208_1738_M7.8_Kirakira__Solomon_Islands",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "event": "M 7.9 - 140 km E of Kokopo, Papua New Guinea",
+      "directory": "event_analysis\\event_20161217_1051_M7.9_Kokopo__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.6 - 41 km SW of Quell\u00f3n, Chile",
+      "directory": "event_analysis\\event_20161225_1422_M7.6_Quell\u00f3n__Chile",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 189 km SSE of Tabiauan, Philippines",
+      "directory": "event_analysis\\event_20170110_0613_M7.3_Tabiauan__Philippines",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.9 - 35 km WNW of Panguna, Papua New Guinea",
+      "directory": "event_analysis\\event_20170122_0430_M7.9_Panguna__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.5 - 132 km WSW of Moijabana, Botswana",
+      "directory": "event_analysis\\event_20170403_1740_M6.5_Moijabana__Botswana",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.9 - 40 km W of Valpara\u00edso, Chile",
+      "directory": "event_analysis\\event_20170424_2138_M6.9_Valpara\u00edso__Chile",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.9 - 31 km SW of Burias, Philippines",
+      "directory": "event_analysis\\event_20170428_2023_M6.9_Burias__Philippines",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.9 - 2 km SSW of San Pablo, Guatemala",
+      "directory": "event_analysis\\event_20170614_0729_M6.9_San_Pablo__Guatemala",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 6.8 - 28 km SW of Puerto San Jos\u00e9, Guatemala",
+      "directory": "event_analysis\\event_20170622_1231_M6.8_Puerto_San_Jos\u00e9__Guatemala",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.7 - Komandorskiye Ostrova, Russia region",
+      "directory": "event_analysis\\event_20170717_2334_M7.7_Komandorskiye_Ostrova__Russia_region",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.6 - 11 km ENE of Kos, Greece",
+      "directory": "event_analysis\\event_20170720_2231_M6.6_Kos__Greece",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 8.2 - near the coast of Chiapas, Mexico",
+      "directory": "event_analysis\\event_20170908_0449_M8.2_Chiapas__Mexico",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 1 km S of Matzaco, Mexico",
+      "directory": "event_analysis\\event_20170919_1814_M7.1_Matzaco__Mexico",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 29 km S of ?alabja, Iraq",
+      "directory": "event_analysis\\event_20171112_1818_M7.3_alabja__Iraq",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.5 - 18 km W of Parrita, Costa Rica",
+      "directory": "event_analysis\\event_20171113_0228_M6.5_Parrita__Costa_Rica",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 85 km ENE of Tadine, New Caledonia",
+      "directory": "event_analysis\\event_20171119_2243_M7.0_Tadine__New_Caledonia",
+      "before_count": 3,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.5 - 12 km SSW of Kawalu, Indonesia",
+      "directory": "event_analysis\\event_20171215_1647_M6.5_Kawalu__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - 203 km NNE of Barra Patuca, Honduras",
+      "directory": "event_analysis\\event_20180110_0251_M7.5_Barra_Patuca__Honduras",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 37 km W of Atiquipa, Peru",
+      "directory": "event_analysis\\event_20180114_0918_M7.1_Atiquipa__Peru",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.9 - 261 km SE of Chiniak, Alaska",
+      "directory": "event_analysis\\event_20180123_0931_M7.9_Chiniak__Alaska",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 4 km S of Pinotepa de Don Luis, Mexico",
+      "directory": "event_analysis\\event_20180216_2339_M7.2_Pinotepa_de_Don_Luis__Mexico",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - 32 km SW of Tari, Papua New Guinea",
+      "directory": "event_analysis\\event_20180225_1744_M7.5_Tari__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 6.9 - 18 km SSW of Leilani Estates, Hawaii",
+      "directory": "event_analysis\\event_20180504_2232_M6.9_Leilani_Estates__Hawaii",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.9 - 36 km NW of Labuan Lombok, Indonesia",
+      "directory": "event_analysis\\event_20180805_1146_M6.9_Labuan_Lombok__Indonesia",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "event": "M 8.2 - 267 km E of Levuka, Fiji",
+      "directory": "event_analysis\\event_20180819_0019_M8.2_Levuka__Fiji",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.9 - 20 km NNW of Labuan Lombok, Indonesia",
+      "directory": "event_analysis\\event_20180819_1456_M6.9_Labuan_Lombok__Indonesia",
+      "before_count": 2,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 40 km ENE of Car\u00fapano, Venezuela",
+      "directory": "event_analysis\\event_20180821_2131_M7.3_Car\u00fapano__Venezuela",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 136 km W of I\u00f1apari, Peru",
+      "directory": "event_analysis\\event_20180824_0904_M7.1_I\u00f1apari__Peru",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 238 km ESE of Tadine, New Caledonia",
+      "directory": "event_analysis\\event_20180829_0351_M7.1_Tadine__New_Caledonia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.6 - 27 km ESE of Chitose, Japan",
+      "directory": "event_analysis\\event_20180905_1807_M6.6_Chitose__Japan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.9 - 45 km S of Levuka, Fiji",
+      "directory": "event_analysis\\event_20180906_1549_M7.9_Levuka__Fiji",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - 72 km N of Palu, Indonesia",
+      "directory": "event_analysis\\event_20180928_1002_M7.5_Palu__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 119 km E of Kimbe, Papua New Guinea",
+      "directory": "event_analysis\\event_20181010_2048_M7.0_Kimbe__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.8 - 32 km SW of Lithaki\u00e1, Greece",
+      "directory": "event_analysis\\event_20181025_2254_M6.8_Lithaki\u00e1__Greece",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 1 km SE of Point MacKenzie, Alaska",
+      "directory": "event_analysis\\event_20181130_1729_M7.1_Point_MacKenzie__Alaska",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - 166 km ESE of Tadine, New Caledonia",
+      "directory": "event_analysis\\event_20181205_0418_M7.5_Tadine__New_Caledonia",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.1 - South Sandwich Islands region",
+      "directory": "event_analysis\\event_20181211_0226_M7.1_South_Sandwich_Islands_region",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 187 km SE of Ust\u2019-Kamchatsk Staryy, Russia",
+      "directory": "event_analysis\\event_20181220_1701_M7.3_Ust\u2019-Kamchatsk_Staryy__Russia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 96 km ESE of Pondaguitan, Philippines",
+      "directory": "event_analysis\\event_20181229_0339_M7.0_Pondaguitan__Philippines",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 6.7 - 10 km SSW of Coquimbo, Chile",
+      "directory": "event_analysis\\event_20190120_0132_M6.7_Coquimbo__Chile",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.7 - 5 km SW of Puerto Madero, Mexico",
+      "directory": "event_analysis\\event_20190201_1614_M6.7_Puerto_Madero__Mexico",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - 111km ESE of Palora, Ecuador",
+      "directory": "event_analysis\\event_20190222_1017_M7.5_Palora__Ecuador",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 22 km NNE of Az\u00e1ngaro, Peru",
+      "directory": "event_analysis\\event_20190301_0850_M7.0_Az\u00e1ngaro__Peru",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 33km NW of Bulolo, Papua New Guinea",
+      "directory": "event_analysis\\event_20190506_2119_M7.1_Bulolo__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.6 - 46km SSE of Namatanai, Papua New Guinea",
+      "directory": "event_analysis\\event_20190514_1258_M7.6_Namatanai__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 8.0 - 78 km NE of Navarro, Peru",
+      "directory": "event_analysis\\event_20190526_0741_M8.0_Navarro__Peru",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.6 - 32 km S of La Libertad, El Salvador",
+      "directory": "event_analysis\\event_20190530_0903_M6.6_La_Libertad__El_Salvador",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 116km NE of L'Esperance Rock, New Zealand",
+      "directory": "event_analysis\\event_20190615_2255_M7.3_L'Esperance_Rock__New_Zealand",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 292km NW of Saumlaki, Indonesia",
+      "directory": "event_analysis\\event_20190624_0253_M7.3_Saumlaki__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 18km W of Searles Valley, CA",
+      "directory": "event_analysis\\event_20190706_0319_M7.1_Searles_Valley__CA",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 93km NNE of Laiwui, Indonesia",
+      "directory": "event_analysis\\event_20190714_0910_M7.2_Laiwui__Indonesia",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.8 - 96 km SW of San Antonio, Chile",
+      "directory": "event_analysis\\event_20190801_1828_M6.8_San_Antonio__Chile",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.9 - 152 km SW of Labuan, Indonesia",
+      "directory": "event_analysis\\event_20190802_1203_M6.9_Labuan__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.7 - 70 km WSW of Constituci\u00f3n, Chile",
+      "directory": "event_analysis\\event_20190929_1557_M6.7_Constituci\u00f3n__Chile",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 138km E of Bitung, Indonesia",
+      "directory": "event_analysis\\event_20191114_1617_M7.1_Bitung__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.8 - 7 km S of Magsaysay, Philippines",
+      "directory": "event_analysis\\event_20191215_0611_M6.8_Magsaysay__Philippines",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.7 - 13 km N of Do?anyol, Turkey",
+      "directory": "event_analysis\\event_20200124_1755_M6.7_Doanyol__Turkey",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.7 - 123 km NNW of Lucea, Jamaica",
+      "directory": "event_analysis\\event_20200128_1910_M7.7_Lucea__Jamaica",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 95 km ENE of Kuril\u2019sk, Russia",
+      "directory": "event_analysis\\event_20200213_1033_M7.0_Kuril\u2019sk__Russia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - 221 km SSE of Severo-Kuril\u2019sk, Russia",
+      "directory": "event_analysis\\event_20200325_0249_M7.5_Severo-Kuril\u2019sk__Russia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.5 - Stanley, Idaho",
+      "directory": "event_analysis\\event_20200331_2352_M6.5_Stanley__Idaho",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.5 - Monte Cristo Range, NV Earthquake",
+      "directory": "event_analysis\\event_20200515_1103_M6.5_Monte_Cristo_Range__NV_Earthquake",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.8 - 48 km SW of San Pedro de Atacama, Chile",
+      "directory": "event_analysis\\event_20200603_0735_M6.8_San_Pedro_de_Atacama__Chile",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.4 - south of the Kermadec Islands",
+      "directory": "event_analysis\\event_20200618_1249_M7.4_the_Kermadec_Islands",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.4 - 9 km SE of Santa Mar\u00eda Xadani, Mexico",
+      "directory": "event_analysis\\event_20200623_1529_M7.4_Santa_Mar\u00eda_Xadani__Mexico",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 114 km NNW of Popondetta, Papua New Guinea",
+      "directory": "event_analysis\\event_20200717_0250_M7.0_Popondetta__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.8 - 99 km SSE of Perryville, Alaska",
+      "directory": "event_analysis\\event_20200722_0612_M7.8_Perryville__Alaska",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.8 - 86 km NW of Vallenar, Chile",
+      "directory": "event_analysis\\event_20200901_0409_M6.8_Vallenar__Chile",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.6 - 99 km SE of Sand Point, Alaska",
+      "directory": "event_analysis\\event_20201019_2054_M7.6_Sand_Point__Alaska",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 13 km NNE of N\u00e9on Karlov\u00e1sion, Greece",
+      "directory": "event_analysis\\event_20201030_1151_M7.0_N\u00e9on_Karlov\u00e1sion__Greece",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 211 km SE of Pondaguitan, Philippines",
+      "directory": "event_analysis\\event_20210121_1223_M7.0_Pondaguitan__Philippines",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.7 - southeast of the Loyalty Islands",
+      "directory": "event_analysis\\event_20210210_1319_M7.7_the_Loyalty_Islands",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 73 km ENE of Namie, Japan",
+      "directory": "event_analysis\\event_20210213_1407_M7.1_Namie__Japan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 182 km NE of Gisborne, New Zealand",
+      "directory": "event_analysis\\event_20210304_1327_M7.3_Gisborne__New_Zealand",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.4 - Kermadec Islands, New Zealand",
+      "directory": "event_analysis\\event_20210304_1741_M7.4_Kermadec_Islands__New_Zealand",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "event": "M 8.1 - Kermadec Islands, New Zealand",
+      "directory": "event_analysis\\event_20210304_1928_M8.1_Kermadec_Islands__New_Zealand",
+      "before_count": 1,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.0 - 30 km E of Ishinomaki, Japan",
+      "directory": "event_analysis\\event_20210320_0909_M7.0_Ishinomaki__Japan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.9 - ",
+      "directory": "event_analysis\\event_20210501_0127_M6.9_Unknown_Location",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - Southern Qinghai, China",
+      "directory": "event_analysis\\event_20210521_1804_M7.3_Southern_Qinghai__China",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.7 - 71 km S of Burica, Panama",
+      "directory": "event_analysis\\event_20210721_2115_M6.7_Burica__Panama",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.7 - 15 km S of Hukay, Philippines",
+      "directory": "event_analysis\\event_20210723_2048_M6.7_Hukay__Philippines",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 8.2 - 99 km SE of Perryville, Alaska",
+      "directory": "event_analysis\\event_20210729_0615_M8.2_Perryville__Alaska",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "event": "M 8.2 - 91 km ESE of Perryville, Alaska",
+      "directory": "event_analysis\\event_20210729_0615_M8.2_Perryville__Alaska",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "event": "M 7.1 - 60 km ENE of Pondaguitan, Philippines",
+      "directory": "event_analysis\\event_20210811_1746_M7.1_Pondaguitan__Philippines",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - South Sandwich Islands region",
+      "directory": "event_analysis\\event_20210812_1832_M7.5_South_Sandwich_Islands_region",
+      "before_count": 0,
+      "after_count": 4
+    },
+    {
+      "event": "M 8.1 - South Sandwich Islands region",
+      "directory": "event_analysis\\event_20210812_1835_M8.1_South_Sandwich_Islands_region",
+      "before_count": 1,
+      "after_count": 3
+    },
+    {
+      "event": "M 7.2 - Nippes, Haiti",
+      "directory": "event_analysis\\event_20210814_1229_M7.2_Nippes__Haiti",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - South Sandwich Islands region",
+      "directory": "event_analysis\\event_20210822_2133_M7.1_South_Sandwich_Islands_region",
+      "before_count": 4,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - Acapulco, Mexico",
+      "directory": "event_analysis\\event_20210908_0147_M7.0_Acapulco__Mexico",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - Vanuatu region",
+      "directory": "event_analysis\\event_20211002_0629_M7.3_Vanuatu_region",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 6.9 - 112 km E of Chignik, Alaska",
+      "directory": "event_analysis\\event_20211011_0910_M6.9_Chignik__Alaska",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.5 - 43 km NNW of Barranca, Peru",
+      "directory": "event_analysis\\event_20211128_1052_M7.5_Barranca__Peru",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - Flores Sea",
+      "directory": "event_analysis\\event_20211214_0320_M7.3_Flores_Sea",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 125 km NNE of Lospalos, Timor Leste",
+      "directory": "event_analysis\\event_20211229_1825_M7.3_Lospalos__Timor_Leste",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.6 - northern Qinghai, China",
+      "directory": "event_analysis\\event_20220107_1745_M6.6_northern_Qinghai__China",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.6 - 48 km WNW of P\u00f3lis, Cyprus",
+      "directory": "event_analysis\\event_20220111_0107_M6.6_P\u00f3lis__Cyprus",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - 57 km ENE of Namie, Japan",
+      "directory": "event_analysis\\event_20220316_1436_M7.3_Namie__Japan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.7 - 65 km S of Hualien City, Taiwan",
+      "directory": "event_analysis\\event_20220322_1741_M6.7_Hualien_City__Taiwan",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - southeast of the Loyalty Islands",
+      "directory": "event_analysis\\event_20220331_0544_M7.0_the_Loyalty_Islands",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 10 km W of Az\u00e1ngaro, Peru",
+      "directory": "event_analysis\\event_20220526_1202_M7.2_Az\u00e1ngaro__Peru",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 11 km NE of Bantay, Philippines",
+      "directory": "event_analysis\\event_20220727_0043_M7.0_Bantay__Philippines",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.6 - 44 km SE of Kangding, China",
+      "directory": "event_analysis\\event_20220905_0452_M6.6_Kangding__China",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.6 - 70 km E of Kainantu, Papua New Guinea",
+      "directory": "event_analysis\\event_20220910_2347_M7.6_Kainantu__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 209 km SSE of Isangel, Vanuatu",
+      "directory": "event_analysis\\event_20220914_1104_M7.0_Isangel__Vanuatu",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.9 - 90 km E of Yujing, Taiwan",
+      "directory": "event_analysis\\event_20220918_0644_M6.9_Yujing__Taiwan",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.6 - 35 km SSW of Aguililla, Mexico",
+      "directory": "event_analysis\\event_20220919_1805_M7.6_Aguililla__Mexico",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 6.8 - 55 km SSW of Aguililla, Mexico",
+      "directory": "event_analysis\\event_20220922_0616_M6.8_Aguililla__Mexico",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - south of the Fiji Islands",
+      "directory": "event_analysis\\event_20221109_0951_M7.0_the_Fiji_Islands",
+      "before_count": 1,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.3 - 205 km ESE of Neiafu, Tonga",
+      "directory": "event_analysis\\event_20221111_1048_M7.3_Neiafu__Tonga",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.0 - ",
+      "directory": "event_analysis\\event_20221112_0709_M7.0_Unknown_Location",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 18 km SW of Malango, Solomon Islands",
+      "directory": "event_analysis\\event_20221122_0203_M7.0_Malango__Solomon_Islands",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - Vanuatu",
+      "directory": "event_analysis\\event_20230108_1232_M7.0_Vanuatu",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.6 - Pulau Pulau Tanimbar, Indonesia",
+      "directory": "event_analysis\\event_20230109_1747_M7.6_Pulau_Pulau_Tanimbar__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 153 km NW of Tobelo, Indonesia",
+      "directory": "event_analysis\\event_20230118_0606_M7.0_Tobelo__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.8 - Central Turkey",
+      "directory": "event_analysis\\event_20230206_0117_M7.8_Central_Turkey",
+      "before_count": 0,
+      "after_count": 2
+    },
+    {
+      "event": "M 6.7 - 18 km ESE of Nurda\u011f\u0131, Turkey",
+      "directory": "event_analysis\\event_20230206_0128_M6.7_Nurda\u011f\u0131__Turkey",
+      "before_count": 1,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.5 - 4 km SSE of Ekin\u00f6z\u00fc, Turkey",
+      "directory": "event_analysis\\event_20230206_1024_M7.5_Ekin\u00f6z\u00fc__Turkey",
+      "before_count": 2,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - Kermadec Islands region",
+      "directory": "event_analysis\\event_20230316_0056_M7.0_Kermadec_Islands_region",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.8 - near the coast of Ecuador",
+      "directory": "event_analysis\\event_20230318_1712_M6.8_Ecuador",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.5 - 40 km SSE of Jurm, Afghanistan",
+      "directory": "event_analysis\\event_20230321_1647_M6.5_Jurm__Afghanistan",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - New Guinea, Papua New Guinea",
+      "directory": "event_analysis\\event_20230402_1804_M7.0_New_Guinea__Papua_New_Guinea",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.0 - 96 km N of Tuban, Indonesia",
+      "directory": "event_analysis\\event_20230414_0955_M7.0_Tuban__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - Kermadec Islands, New Zealand",
+      "directory": "event_analysis\\event_20230424_0041_M7.1_Kermadec_Islands__New_Zealand",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.1 - 170 km SSE of Teluk Dalam, Indonesia",
+      "directory": "event_analysis\\event_20230424_2000_M7.1_Teluk_Dalam__Indonesia",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.6 - 95 km WNW of Hihifo, Tonga",
+      "directory": "event_analysis\\event_20230510_1602_M7.6_Hihifo__Tonga",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.7 - southeast of the Loyalty Islands",
+      "directory": "event_analysis\\event_20230519_0257_M7.7_the_Loyalty_Islands",
+      "before_count": 0,
+      "after_count": 1
+    },
+    {
+      "event": "M 7.1 - southeast of the Loyalty Islands",
+      "directory": "event_analysis\\event_20230520_0151_M7.1_the_Loyalty_Islands",
+      "before_count": 1,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - south of the Fiji Islands",
+      "directory": "event_analysis\\event_20230615_1806_M7.2_the_Fiji_Islands",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.6 - 277 km NNE of Codrington, Antigua and Barbuda",
+      "directory": "event_analysis\\event_20230710_2028_M6.6_Codrington__Antigua_and_Barbuda",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.3 - Alaska Peninsula",
+      "directory": "event_analysis\\event_20230716_0648_M7.3_Alaska_Peninsula",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 7.2 - 98 km S of Sand Point, Alaska",
+      "directory": "event_analysis\\event_20230716_0648_M7.2_Sand_Point__Alaska",
+      "before_count": 0,
+      "after_count": 0
+    },
+    {
+      "event": "M 6.6 - 25 km ESE of Loncopu\u00e9, Argentina",
+      "directory": "event_analysis\\event_20230717_0305_M6.6_Loncopu\u00e9__Argentina",
+      "before_count": 0,
+      "after_count": 0
+    }
+  ]
+}
