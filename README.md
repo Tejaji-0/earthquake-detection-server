@@ -1,1 +1,1 @@
-# earthquake-detection-server
+# earthquake-detection

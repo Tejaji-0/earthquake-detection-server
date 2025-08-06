@@ -1,0 +1,9 @@
+{
+  "training_date": "2025-08-06T18:03:29.029945",
+  "training_duration": "0:04:01.433763",
+  "data_samples": 10000,
+  "features_total": 176,
+  "features_selected": 176,
+  "model_type": "Enhanced Ensemble (RF + GB + MLP)",
+  "synthetic_data": true
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2025-08-06T17:30:03.704115",
+    "contacts_notified": 1,
+    "total_contacts": 1,
+    "earthquake_data": {
+      "timestamp": "2025-08-06 17:30:01.701796",
+      "probability": 0.95,
+      "confidence": "critical",
+      "location": "Sensor Location",
+      "detection_method": "Immediate",
+      "vibration_sensor": "Active",
+      "acceleration": "1.306G",
+      "alert_type": "Immediate Detection"
+    },
+    "message_sent": "\ud83d\udea8 *EARTHQUAKE ALERT* \ud83d\udea8\n\n\u23f0 *Time:* 2025-08-06 17:30:01\n\ud83d\udccd *Location:* Sensor Location\n\ud83d\udcca *Probability:* 95.0%\n\ud83c\udfaf *Confidence:* CRITICAL\n\n\u26a0\ufe0f *IMMEDIATE ACTIONS:*\n\u2022 Drop, Cover, and Hold On\n\u2022 Stay away from windows\n\u2022 Move to open space if outside\n\u2022 Check for injuries after shaking stops\n\n\ud83d\udcf1 This is an automated alert from the earthquake detection system.\n\n#EarthquakeAlert #Safety #Emergency"
+  }
+]
